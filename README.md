@@ -13,23 +13,23 @@ Long-term, I'm working toward meaningful contributions to AGI/ASI research and d
 
 ### `// connect`
 
-[![Portfolio](https://img.shields.io/badge/portfolio-archit--konde.github.io-C9A84C?style=flat-square&logo=github)](https://archit-konde.github.io/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-architkonde-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/architkonde/)
-[![Twitter / X](https://img.shields.io/badge/twitter-@architkonde-000000?style=flat-square&logo=x)](https://x.com/architkonde)
-[![Google Scholar](https://img.shields.io/badge/scholar-publications-4285F4?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=njXhCdwAAAAJ)
-[![ORCID](https://img.shields.io/badge/orcid-0000--0002--2422--117X-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-2422-117X)
-[![Email](https://img.shields.io/badge/email-architkonde19@gmail.com-C9A84C?style=flat-square&logo=gmail)](mailto:architkonde19@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-archit--konde.github.io-3e3e42?style=flat-square&logo=github&logoColor=C9A84C&labelColor=1e1e1e)](https://archit-konde.github.io/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-architkonde-3e3e42?style=flat-square&logo=linkedin&logoColor=C9A84C&labelColor=1e1e1e)](https://www.linkedin.com/in/architkonde/)
+[![Twitter / X](https://img.shields.io/badge/twitter-@architkonde-3e3e42?style=flat-square&logo=x&logoColor=C9A84C&labelColor=1e1e1e)](https://x.com/architkonde)<br>
+[![Google Scholar](https://img.shields.io/badge/scholar-publications-3e3e42?style=flat-square&logo=googlescholar&logoColor=C9A84C&labelColor=1e1e1e)](https://scholar.google.com/citations?hl=en&user=njXhCdwAAAAJ)
+[![ORCID](https://img.shields.io/badge/orcid-0000--0002--2422--117X-3e3e42?style=flat-square&logo=orcid&logoColor=C9A84C&labelColor=1e1e1e)](https://orcid.org/0000-0002-2422-117X)
+[![Email](https://img.shields.io/badge/email-architkonde19@gmail.com-3e3e42?style=flat-square&logo=gmail&logoColor=C9A84C&labelColor=1e1e1e)](mailto:architkonde19@gmail.com)
 
 ---
 
 ### `// stack`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=C9A84C)
+![PyTorch](https://img.shields.io/badge/PyTorch-1e1e1e?style=flat-square&logo=pytorch&logoColor=C9A84C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1e1e?style=flat-square&logo=tensorflow&logoColor=C9A84C)<br>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1e1e?style=flat-square&logo=scikitlearn&logoColor=C9A84C)
+![C++](https://img.shields.io/badge/C%2B%2B-1e1e1e?style=flat-square&logo=cplusplus&logoColor=C9A84C)
+![AWS](https://img.shields.io/badge/AWS-1e1e1e?style=flat-square&logo=amazonaws&logoColor=C9A84C)
 
 ---
 
