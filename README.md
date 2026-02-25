@@ -17,6 +17,7 @@ Long-term, I'm working toward meaningful contributions to AGI/ASI research and d
 [![LinkedIn](https://img.shields.io/badge/linkedin-architkonde-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/architkonde/)
 [![Twitter / X](https://img.shields.io/badge/twitter-@architkonde-000000?style=flat-square&logo=x)](https://x.com/architkonde)
 [![Google Scholar](https://img.shields.io/badge/scholar-publications-4285F4?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=njXhCdwAAAAJ)
+[![ORCID](https://img.shields.io/badge/orcid-0000--0002--2422--117X-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-2422-117X)
 [![Email](https://img.shields.io/badge/email-architkonde19@gmail.com-C9A84C?style=flat-square&logo=gmail)](mailto:architkonde19@gmail.com)
 
 ---
@@ -48,9 +49,7 @@ currently = {
 ### `// stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archit-Konde&show_icons=true&theme=dark&bg_color=1e1e1e&title_color=C9A84C&icon_color=C9A84C&text_color=d4d4d4&border_color=3e3e42&hide_border=false&count_private=true" alt="GitHub Stats" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit-Konde&layout=compact&theme=dark&bg_color=1e1e1e&title_color=C9A84C&text_color=d4d4d4&border_color=3e3e42&hide_border=false" alt="Top Languages" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Archit-Konde&theme=dark&background=1e1e1e&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=d4d4d4&dates=858585&border=3e3e42" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
@@ -59,6 +58,7 @@ currently = {
 
 📄 **Fundamentals of Neural Networks** — *IJRASET*
 → [View on Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=njXhCdwAAAAJ&citation_for_view=njXhCdwAAAAJ:u5HHmVD_uO8C)
+→ [ORCID: 0000-0002-2422-117X](https://orcid.org/0000-0002-2422-117X)
 
 ---
 
