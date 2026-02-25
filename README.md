@@ -46,11 +46,16 @@ currently = {
 
 ---
 
-### `// stats`
+### `// activity`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Archit-Konde&theme=dark&background=1e1e1e&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=d4d4d4&dates=858585&border=3e3e42" alt="GitHub Streak" height="165"/>
-</p>
+```bash
+$ git log --oneline --author="Archit"
+
+a3f2b1  studying   transformer internals  →  karpathy/nanoGPT
+b7e4d2  reading    Attention Is All You Need  ·  Scaling Laws papers
+c9f1e3  building   ML project  ←  watch this space
+d4a507  status     ● open to ML/AI opportunities
+```
 
 ---
 
