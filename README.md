@@ -33,19 +33,6 @@ Long-term, I'm working toward meaningful contributions to AGI/ASI research and d
 
 ---
 
-### `// currently`
-
-```python
-currently = {
-    "learning"  : "Transformer internals → karpathy/microGPT → nanoGPT",
-    "building"  : "ML projects — watch this space",
-    "reading"   : "Attention Is All You Need, Scaling Laws papers",
-    "status"    : "● open to ML/AI opportunities"
-}
-```
-
----
-
 ### `// activity`
 
 ```bash
