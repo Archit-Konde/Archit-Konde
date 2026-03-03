@@ -3,6 +3,7 @@
 ```
 
 # Archit Konde
+### Machine Learning Engineer
 
 **Machine Learning Engineer** — focused on solving the intelligence problem, one step at a time.
 
