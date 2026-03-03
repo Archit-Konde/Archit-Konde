@@ -52,6 +52,10 @@ d4a507  status     ● open to ML/AI opportunities
 → [View on Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=njXhCdwAAAAJ&citation_for_view=njXhCdwAAAAJ:u5HHmVD_uO8C)
 → [ORCID: 0000-0002-2422-117X](https://orcid.org/0000-0002-2422-117X)
 
+### `// status`
+
+This repository serves as a permanent scholarly record of technical progress and research initiatives. Core documentation is maintained with an emphasis on metadata integrity and professional security policies.
+
 ---
 
 ```
