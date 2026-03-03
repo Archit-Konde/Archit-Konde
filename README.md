@@ -4,10 +4,10 @@
 
 # Archit Konde
 
-**Machine Learning Engineer** — focused on solving the intelligence problem, one step at a time.
+**Machine Learning Engineer** — dedicated to the architectural refinement of intelligent systems.
 
-I build AI systems that help people tackle complex, high-impact challenges.
-Long-term, I'm working toward meaningful contributions to AGI/ASI research and development.
+I architect AI solutions that address high-dimensional technical challenges.
+My research trajectory is oriented toward scalable AGI development and neural topology optimization.
 
 ---
 
