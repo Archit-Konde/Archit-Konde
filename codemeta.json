@@ -1,0 +1,30 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "Archit Konde — GitHub Profile",
+    "description": "Professional GitHub profile repository for Archit Konde, documenting Machine Learning research and development history.",
+    "identifier": "Archit-Konde-Profile",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "programmingLanguage": [
+        "Markdown"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Archit",
+            "familyName": "Konde",
+            "email": "architkonde19@gmail.com",
+            "id": "https://orcid.org/0000-0002-2422-117X"
+        }
+    ],
+    "dateReleased": "2026-03-02",
+    "codeRepository": "https://github.com/Archit-Konde/Archit-Konde",
+    "developmentStatus": "active",
+    "applicationCategory": "Profile / Documentation",
+    "keywords": [
+        "Archit Konde",
+        "Machine Learning",
+        "Profile",
+        "README"
+    ]
+}
