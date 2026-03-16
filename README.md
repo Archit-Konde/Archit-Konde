@@ -26,10 +26,11 @@ Long-term, I'm working toward meaningful contributions to AGI/ASI research and d
 
 ![Python](https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=C9A84C)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1e1e1e?style=flat-square&logo=pytorch&logoColor=C9A84C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1e1e?style=flat-square&logo=tensorflow&logoColor=C9A84C)<br>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1e1e?style=flat-square&logo=scikitlearn&logoColor=C9A84C)
-![C++](https://img.shields.io/badge/C%2B%2B-1e1e1e?style=flat-square&logo=cplusplus&logoColor=C9A84C)
-![AWS](https://img.shields.io/badge/AWS-1e1e1e?style=flat-square&logo=amazonaws&logoColor=C9A84C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1e1e?style=flat-square&logo=scikitlearn&logoColor=C9A84C)<br>
+![NumPy](https://img.shields.io/badge/NumPy-1e1e1e?style=flat-square&logo=numpy&logoColor=C9A84C)
+![pandas](https://img.shields.io/badge/pandas-1e1e1e?style=flat-square&logo=pandas&logoColor=C9A84C)
+![Docker](https://img.shields.io/badge/Docker-1e1e1e?style=flat-square&logo=docker&logoColor=C9A84C)
+![pytest](https://img.shields.io/badge/pytest-1e1e1e?style=flat-square&logo=pytest&logoColor=C9A84C)
 
 ---
 
@@ -38,17 +39,17 @@ Long-term, I'm working toward meaningful contributions to AGI/ASI research and d
 ```bash
 $ git log --oneline --author="Archit"
 
-a3f2b1  studying   transformer internals  →  karpathy/nanoGPT
-b7e4d2  reading    Attention Is All You Need  ·  Scaling Laws papers
-c9f1e3  building   ML project  ←  watch this space
-d4a507  status     ● open to ML/AI opportunities
+a3f2b1  shipped    RAG pipeline from scratch  →  MRR 1.0, 87 tests
+b7e4d2  shipped    SupportOps AI Monitor  →  GPT-4o-mini triage, Docker
+c9f1e3  building   next project  ←  watch this space
+d4a507  status     ● open to ML/AI opportunities — Waterloo, ON
 ```
 
 ---
 
 ### `// research`
 
-📄 **Fundamentals of Neural Networks** — *IJRASET*
+📄 **Fundamentals of Neural Networks** — *IJRASET, 2021*
 → [View on Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=njXhCdwAAAAJ&citation_for_view=njXhCdwAAAAJ:u5HHmVD_uO8C)
 → [ORCID: 0000-0002-2422-117X](https://orcid.org/0000-0002-2422-117X)
 
